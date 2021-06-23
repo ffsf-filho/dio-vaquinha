@@ -1,5 +1,9 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# Bootcamp MRV .NET Developer
+
+## dotnet-vaquinha-tests
+Projeto Base para Testes - .Net Core, este projeto é de criação do Eliézer Zarpelão e Marcos freire
+ e foi utilizado no Bootcamp MRV para explicação sobre testes de aplicação e validação das regras
+  de negócio   
 
 ## Digital Innovation One
 
