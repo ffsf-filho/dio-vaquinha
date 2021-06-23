@@ -20,3 +20,6 @@ Projeto Base para Testes - .Net Core, este projeto é de criação do Eliézer Z
 
 ## Slides
 [Slides em PDF](TesteNetCore.pdf)
+
+## Tela da aplicação
+<img src=".github/md/teladaaplicao.png" alt="Tela da aplicação">
